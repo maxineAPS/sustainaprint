@@ -1,0 +1,7 @@
+numpy
+scipy
+sfepy>=2026.1
+wildmeshing
+pyvista
+pyvistaqt
+PySide6
